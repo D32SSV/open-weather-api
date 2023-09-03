@@ -6,6 +6,10 @@
     margin: 0;
 }
 
+#btn {
+    margin-top: 20px;
+}
+
 body>div {
     display: flex;
     flex-direction: column;
